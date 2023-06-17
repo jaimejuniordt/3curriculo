@@ -244,7 +244,7 @@ color: #232323;
 }
 
 .container .h-habilidades .item .icon .percentual-10 {
-    width: 110px;
+    width: 190px;
     height: 100px;
     border-radius: 6px;
     background-color: #00E0FF;
@@ -256,14 +256,14 @@ color: #232323;
     background-color: #00E0FF;
 }
 .container .h-habilidades .item .icon .percentual-80 {
-    width: 180px;
+    width: 160px;
     height: 100px;
     border-radius: 6px;
     background-color: #00E0FF;
 }
 
 .container .h-habilidades .item .icon .percentual-100 {
-    width: 200px;
+    width: 160px;
     height: 100px;
     border-radius: 6px;
     background-color: #00E0FF;
@@ -326,7 +326,7 @@ footer {
      margin-bottom: 20px;
     }
 
-    /* Experieência */
+    /* Experiência */
     .container .h-experiencia .h-itens .item {
         margin-bottom: 50px;
     }
